@@ -1,19 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# LEADBOARD
 
-> Description the project.
+> This is a Leaderboard project buillt with HTML, CSS and JavaScript. The project is connect to Leaderboard API.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- Webpack
+- API
+- JSON
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+Not Yet provided
 
 
 ## Getting Started
@@ -27,7 +30,9 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Setup
+https://github.com/maaloum/Leaderboard.git
 
+cd leaderboard
 ### Install
 
 ### Usage
@@ -42,8 +47,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@Maaloum](https://github.com/maaloum)
+- Twitter: [@Maaloum](https://github.com/maaloum)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
