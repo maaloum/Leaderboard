@@ -48,3 +48,4 @@ btnSubmit.addEventListener('click', (e) => {
   userName.value = '';
   userScore.value = '';
 });
+refreshScores();
