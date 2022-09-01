@@ -45,6 +45,15 @@ h1 {
   margin-bottom: 20px;
 }
 
+.refresh {
+  border: none;
+  background: rgb(249, 145, 145);
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
 .left {
   width: 50%;
   height: 100%;

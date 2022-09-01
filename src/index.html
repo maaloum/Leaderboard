@@ -9,38 +9,22 @@
 <body>
 
   <div class="wrapper">
-    <h1>Leadbord</h1>
+    <h1>Leaderboard</h1>
     <div class="leaderboard">
       <div class="right">
         <div class="recent-score">
           <p>Recent Score</p>
-          <button>Refresh</button>
+          <button class="refresh">Refresh</button>
         </div>
-        <table>
-          <tr>
-            <th>Name</th>
-            <th>Score</th>
-          </tr>
-          <tr>
-            <td>John</td>
-            <td>100</td>
-          </tr>
-          <tr>
-            <td>Jane</td>
-            <td>90</td>
-          </tr>
-          <tr>
-            <td>Joe</td>
-            <td>80</td>
-          </tr>
+        <table class="tableData">
         </table>
       </div>
       <div class="left">
         <p>Add your score</p>
-          <form method="post">
-            <input type="text" name="name" placeholder="Name">
-            <input type="text" name="score" placeholder="Score">
-            <button type="submit" >Submit</button>
+          <form action="#" method="post">
+            <input class="user" type="text" name="name" placeholder="Name">
+            <input class="score" type="text" name="score" placeholder="Score">
+            <button class="btnSubmit" type="submit" >Submit</button>
           </form>
       </div>
     </div>
